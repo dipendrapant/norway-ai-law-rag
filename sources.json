@@ -1,0 +1,117 @@
+{
+    "regulations": [
+      {
+        "title": "Artificial Intelligence Act",
+        "act": "AI Act",
+        "jurisdiction": "EU",
+        "language": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+        "download": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+        "version_date": "2024-07-12",
+        "doc_type": "regulation"
+      },
+      {
+        "title": "General Data Protection Regulation (GDPR) 2016/679",
+        "act": "GDPR",
+        "jurisdiction": "EU",
+        "language": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679",
+        "download": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679",
+        "version_date": "2016-05-04",
+        "doc_type": "regulation"
+      },
+      {
+        "title": "European Health Data Space Regulation (EHDS) 2025/327",
+        "act": "EHDS",
+        "jurisdiction": "EU",
+        "language": "EN",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32025R0327",
+        "download": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32025R0327",
+        "version_date": "2025-03-05",
+        "doc_type": "regulation"
+      }
+    ],
+    "acts_and_laws": [
+      {
+        "title": "Personal Data Act (Lov om behandling av personopplysninger)",
+        "act": "Personal Data Act",
+        "jurisdiction": "NO",
+        "language": "NO (unofficial English translation exists)",
+        "url": "https://lovdata.no/dokument/NLE/lov/2018-06-15-38",
+        "download": "https://lovdata.no/dokument/NLE/lov/2018-06-15-38",
+        "version_date": "2018-06-15",
+        "doc_type": "act"
+      },
+      {
+        "title": "Health Register Act (Helseregisterloven)",
+        "act": "Health Register Act",
+        "jurisdiction": "NO",
+        "language": "NO",
+        "url": "https://lovdata.no/lov/2014-06-20-43",
+        "download": "https://lovdata.no/dokument/NL/lov/2014-06-20-43",
+        "version_date": "2014-06-20",
+        "doc_type": "act"
+      },
+      {
+        "title": "Code of conduct for information security & data protection in the healthcare and care services sector, Normen v6.1",
+        "act": "Normen v6.1",
+        "jurisdiction": "NO",
+        "language": "NO / EN (guideline)",
+        "url": "https://www.helsedirektoratet.no/english/the-code-of-conduct-for-information-security-and-data-protection",
+        "download": "https://www.helsedirektoratet.no/english/the-code-of-conduct-for-information-security-and-data-protection/Code%20of%20conduct%20for%20information%20security%20and%20data%20protection%20in%20the%20Health%20Care%20Sector.pdf",
+        "version_date": "2022-09-21",
+        "doc_type": "guideline"
+      },
+      {
+        "title": "Health Personnel Act (Helsepersonelloven)",
+        "act": "Health Personnel Act",
+        "jurisdiction": "NO",
+        "language": "NO (some English commentary available)",
+        "url": "https://lovdata.no/dokument/NL/lov/1999-07-02-64",
+        "download": "https://lovdata.no/dokument/NL/lov/1999-07-02-64",
+        "version_date": "1999-07-02",
+        "doc_type": "act"
+      },
+      {
+        "title": "Health Research Act (Helseforskningsloven)",
+        "act": "Health Research Act",
+        "jurisdiction": "NO",
+        "language": "NO",
+        "url": "https://lovdata.no/lov/2008-06-20-44",
+        "download": "https://lovdata.no/dokument/NL/lov/2008-06-20-44",
+        "version_date": "2008-06-20",
+        "doc_type": "act"
+      },
+      {
+        "title": "Patient Records Act / Pasientjournalloven (Law on processing of health data in provision of health care)",
+        "act": "Patient Records Act / Pasientjournalloven",
+        "jurisdiction": "NO",
+        "language": "NO",
+        "url": "https://lovdata.no/lov/2014-06-20-42",
+        "download": "https://lovdata.no/dokument/NL/lov/2014-06-20-42",
+        "version_date": "2014-06-20",
+        "doc_type": "act"
+      },
+      {
+        "title": "Patient Records Regulations (Forskrift om pasientjournal, pasientjournalforskriften)",
+        "act": "Patient Records Regulations",
+        "jurisdiction": "NO",
+        "language": "NO",
+        "url": "https://lovdata.no/forskrift/2019-03-01-168",
+        "download": "https://lovdata.no/dokument/LTI/forskrift/2019-03-01-168",
+        "version_date": "2019-03-01",
+        "doc_type": "regulation"
+      },
+      {
+        "title": "Norwegian Patient and User Rights Act (Pasient- og brukerrettighetsloven)",
+        "act": "Patient and User Rights Act",
+        "jurisdiction": "NO",
+        "language": "NO (some English commentary / translation)",
+        "url": "https://lovdata.no/lov/1999-07-02-63",
+        "download": "https://lovdata.no/dokument/NL/lov/1999-07-02-63",
+        "version_date": "1999-07-02",
+        "doc_type": "act"
+      }
+    ]
+  }
+  
