@@ -18,3 +18,5 @@ This is a lightweight template for building Retrieval-Augmented Generation (RAG)
 #### 4) Run
 
 `python server.py`
+
+It is running at: `https://huggingface.co/spaces/pantdipendra/uit-norway-ai-law` with the same knowledge index
