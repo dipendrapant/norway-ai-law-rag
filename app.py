@@ -26,7 +26,6 @@ INDEX_DIR = ROOT / "index"
 DEFAULT_SCOPE = os.getenv("DEFAULT_SCOPE", "both")  # eu|no|both
 BUILD_INDEX = os.getenv("BUILD_INDEX_ON_START", "false").lower() == "true"
 POLICY_URL = os.getenv("POLICY_URL")
-EU_HOSTING = os.getenv("EU_HOSTING", "false").lower() == "true"
 
 USE_OLLAMA = os.getenv("USE_OLLAMA", "false").lower() == "true"
 OLLAMA_BASE = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434").rstrip("/")
