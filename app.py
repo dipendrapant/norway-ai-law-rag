@@ -12,7 +12,6 @@ import numpy as np
 import requests
 from dotenv import load_dotenv
 
-#from governance import hash_query, log_event, purge_old_logs
 from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer
 
